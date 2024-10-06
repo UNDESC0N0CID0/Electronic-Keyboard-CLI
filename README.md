@@ -4,6 +4,8 @@ Este es un programa de línea de comandos (CLI) que simula un piano utilizando N
 > [!TIP]
 > Para salir del programa, presiona la tecla `ESC` o `Ctrl + C`.
 
+https://github.com/user-attachments/assets/bba852c8-0dfd-4dc8-9187-14ae6e714429
+
 ## Características
 
 - Simulación de un teclado de piano con 60 teclas.
@@ -32,7 +34,7 @@ Antes de ejecutar este programa, asegúrate de tener instalado lo siguiente en t
 1. Ejecuta el programa en la terminal con Node.js:
 
     ```bash
-    node piano.js
+    node main.js
     ```
 
 2. En la terminal se mostrará un teclado de piano visual en formato ASCII. Puedes interactuar con él de las siguientes formas:
